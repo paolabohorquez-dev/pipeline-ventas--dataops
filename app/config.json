@@ -9,8 +9,8 @@
   "smtp": {
     "server": "sandbox.smtp.mailtrap.io",
     "port": 587,
-    "user": "40988ade02550c",
-    "password": "dd79ec7cd9c5f4",
+    "user": "e4f3417e2031f6",
+    "password": "9e0e567b1a7136",
     "sender_email": "Python DataOps <pydataops@example.com>"
   },
   "paths": {
