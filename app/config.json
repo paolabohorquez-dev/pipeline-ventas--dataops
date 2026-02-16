@@ -20,6 +20,6 @@
   "report": {
     "to": "usuario.dmc@gmail.com",
     "subject": "Paola - Comisiones Calculadas DataOps 2",
-    "body_html": "Estimado(a), este es el final del ejercicio <br>Adjunto encontrarás el archivo con las comisiones calculadas.<br>Saludos."
+    "body_html": "Estimado(a), Evaluacion practica: <br>Adjunto encontrarás el archivo con las comisiones calculadas.<br>Saludos."
   }
 }
